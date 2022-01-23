@@ -11,7 +11,7 @@ npm install axios
 
 Finally, the user must enter in the command: <brt>
 ```
-node index.js
+node BackEndSolution.js
 ```
   
 to run the JavaScript file.
